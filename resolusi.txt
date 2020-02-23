@@ -2,3 +2,4 @@ Resolusi Lab di tahun 2020 :
 - Lancar dalam praktikum
 - aslab harus tegas dalam memberikan tindakan terhadap orang yang membuat pelanggaran
 - mengupgrade spec komp
+- menambahkan ac pada setiap lab
